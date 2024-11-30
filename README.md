@@ -1,5 +1,6 @@
-# Fake-News-Detection
+# Fake-News-Prediction
 
+A machine learning project that classifies news articles as real or fake
 
 **Created By:**
 
